@@ -252,7 +252,7 @@ void smtc_modem_hal_on_panic( uint8_t* func, uint32_t line, const char* fmt, ...
  *
  * @return uint32_t Generated random unsigned number between smallest value and biggest value (between val_1 and val_2)
  */
-uint32_t smtc_modem_hal_get_random_nb_in_range( const uint32_t val_1, const uint32_t val_2 );
+uint32_t smtc_modem_hal_get_random_nb_in_range( const uint16_t val_1, const uint32_t val_2 );
 
 /* ------------ Radio env management ------------*/
 
