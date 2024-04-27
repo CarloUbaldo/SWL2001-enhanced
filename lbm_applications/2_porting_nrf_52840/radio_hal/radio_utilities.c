@@ -49,7 +49,7 @@
  * --- PRIVATE CONSTANTS -------------------------------------------------------
  */
 #ifndef DEFAULT_TX_POWER_OFFSET_DB
-#define DEFAULT_TX_POWER_OFFSET_DB ( 0 )
+#define DEFAULT_TX_POWER_OFFSET_DB ( 1 )
 #endif
 /*
  * -----------------------------------------------------------------------------
