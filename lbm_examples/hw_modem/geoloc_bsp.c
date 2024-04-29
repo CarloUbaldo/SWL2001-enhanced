@@ -62,11 +62,13 @@ void geolocation_bsp_gnss_postscan_actions( void )
 void geolocation_bsp_wifi_prescan_actions( void )
 {
     hal_gpio_set_value( SMTC_LED_SCAN, 1 );
+    hal_gpio_set_value( SMTC_LED_SCAN, 1 );
 }
 
 void geolocation_bsp_wifi_postscan_actions( void )
 {
     hal_gpio_set_value( SMTC_LED_SCAN, 0 );
+    hal_gpio_set_value( SMTC_LED_SCAN, 1 );
 }
 
 lr11xx_system_lfclk_cfg_t geolocation_bsp_get_lr11xx_lf_clock_cfg( void )
