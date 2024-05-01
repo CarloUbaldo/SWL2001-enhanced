@@ -15,7 +15,7 @@ BUILD_ROOT = build
 TARGET_ROOT = basic_modem
 
 # External flags if needed
-EXTRAFLAGS ?=
+EXTRAFLAGS ?= enahanced_version
 
 #-----------------------------------------------------------------------------
 # Optimization
