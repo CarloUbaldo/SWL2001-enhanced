@@ -9,7 +9,7 @@ endif
 ifeq ($(TARGET_RADIO),lr1120)
 TARGET = lr1120
 endif
-ifeq ($(TARGET_RADIO),lr1121)
+ifeq ($(TARGET_RADIO),lr1121b)
 TARGET = lr1121
 endif
 
