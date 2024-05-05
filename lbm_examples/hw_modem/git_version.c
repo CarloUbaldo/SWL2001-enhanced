@@ -40,7 +40,7 @@
 #include <stdint.h>   // C99 types
 #include <stdbool.h>  // bool type
 
-#include "git_version.h"
+#include "git_versions.h"
 
 /*
  * -----------------------------------------------------------------------------
@@ -79,7 +79,7 @@ const char* get_software_git_commit( void )
 
 const char* get_software_git_date( void )
 {
-    return GIT_DATE;
+    return GIT_DATE_8;
 }
 
 const char* get_software_build_date( void )
