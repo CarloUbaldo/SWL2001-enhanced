@@ -69,7 +69,7 @@ extern "C" {
  *
  * @return Tx power offset in dB
  */
-int8_t radio_utilities_get_tx_power_offset( void );
+int8_t radio_utilities_get_tx_power_offset( int8_t tx_profile );
 
 /**
  * @brief Set the Tx power offset in dB
