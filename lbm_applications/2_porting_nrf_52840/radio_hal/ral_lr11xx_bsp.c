@@ -59,10 +59,10 @@
 
 typedef enum lr11xx_pa_type_s
 {
-    LR11XX_WITH_LF_LP_PA,
-    LR11XX_WITH_LF_HP_PA,
-    LR11XX_WITH_LF_LP_HP_PA,
-    LR11XX_WITH_HF_PA,
+    LR11XX_WITH_LF_LP_PA2,
+    LR11XX_WITH_LF_HP_PA2,
+    LR11XX_WITH_LF_LP_HP_PA2,
+    LR11XX_WITH_HF_PA2,
 } lr11xx_pa_type_t;
 
 typedef struct lr11xx_pa_pwr_cfg_s
