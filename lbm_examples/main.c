@@ -38,6 +38,7 @@
  */
 #include <stdint.h>   // C99 types
 #include <stdbool.h>  // bool type
+#include <stdlib.h>
 
 #include "main.h"
 
