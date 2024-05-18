@@ -167,7 +167,7 @@ Revision: $Rev: 7020 $
     #define SEGGER_RTT_LOCK()   {                                                                   \
                                     unsigned int LockState;                                         \
                                   __asm volatile ("mrs   %0, basepri  \n\t"                         \
-                                                  "mov   r1, %1       \n\t"                         \
+                                                  "mov   r1, %32      \n\t"                         \
                                                   "msr   basepri, r1  \n\t"                         \
                                                   : "=r" (LockState)                                \
                                                   : "i"(SEGGER_RTT_MAX_INTERRUPT_PRIORITY)          \
