@@ -16,6 +16,7 @@ help:
 	$(call echo_help, " * make clean_<TARGET>                     : clean basic_modem for a given target")
 	$(call echo_help, " * make clean_all                          : clean all")
 	$(call echo_help, "")
+	$(call echo_help, "Start!")
 	$(call echo_help_b, "----------------------------- Compilation ----------------------------------")
 	$(call echo_help, " * make basic_modem_<TARGET> MCU_FLAGS=xxx : build basic_modem on a given target with chosen mcu flags")
 	$(call echo_help, " *                                           MCU_FLAGS are mandatory. Ex for stm32l4:")
