@@ -53,6 +53,8 @@ extern "C" {
  * --- PUBLIC CONSTANTS --------------------------------------------------------
  */
 
+#define LR11XX_PA_LP_LF_CFG_POWER 118
+
 #define LR11XX_PA_LP_LF_CFG_TABLE                    \
     {                                                \
         {                                            \
