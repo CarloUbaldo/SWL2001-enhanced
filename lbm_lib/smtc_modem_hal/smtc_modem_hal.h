@@ -59,7 +59,7 @@ extern "C" {
     do                                                                             \
     {                                                                              \
         smtc_modem_hal_on_panic( ( uint8_t* ) __func__, __LINE__, ""__VA_ARGS__ ); \
-    } while( 0 );
+    } while( 1 );
 
 /**
  * @brief  The SMTC_MODEM_HAL_PANIC_ON_FAILURE macro is used for function's parameters check.
