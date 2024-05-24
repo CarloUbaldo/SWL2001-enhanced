@@ -24,6 +24,7 @@
 #include "smtc_hal_dbg_trace.h"
 #include "stm32u5xx_hal.h"
 #include "tx_port.h"
+#include "tx_port232.h"
 #include "app_threadx.h"
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
