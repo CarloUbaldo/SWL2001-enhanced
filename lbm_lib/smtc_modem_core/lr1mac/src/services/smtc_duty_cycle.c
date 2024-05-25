@@ -75,6 +75,14 @@ static struct
 #define dtc_obj_ptr dtc_context.dtc_obj_ptr
 #define dtc_obj_ctx dtc_context.dtc_obj_ctx
 
+static struct
+{
+    smtc_dtc_t* dtc_obj_ptr;
+#if defined( REGION_EU_868 ) || ( REGION_RU_864 )
+    smtc_dtc_t dtc_obj_ctx;
+#endif
+} dtc_context_backup;
+
 /*
  * -----------------------------------------------------------------------------
  * --- PRIVATE FUNCTIONS DECLARATION -------------------------------------------
