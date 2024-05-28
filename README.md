@@ -26,7 +26,8 @@ Under `lbm_examples` folder, one will find a few examples on how to use the LoRa
 - Hardware Modem (Implements a hardware modem controlled by a serial interface)
 - Periodical uplink (joins the network and then sends periodic uplinks and each time the button is pushed)
 - Porting tests (Allows to verify if the project porting process is correct)
-- LCTT certification (to run LoRaWAN certification) 
+- LCTT certification (to run LoRaWAN certification)
+- IOT devices
 
 The examples are targeted for the NucleoL476 kit featuring an STM32L476 micro-controller.
 For further details please refer to `lbm_examples` directory [README](lbm_examples/README.md) file.
