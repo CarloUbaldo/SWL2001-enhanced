@@ -59,7 +59,7 @@ extern "C" {
 // Rx timeout windows is superior or equal at BSP_MIN_RX_TIMEOUT_DELAY_MS
 #define BSP_MIN_RX_TIMEOUT_DELAY_MS 6
 // rx fine auto find tune option
-#define BSP_LR1MAC_DISABLE_FINE_TUNE 1
+#define BSP_LR1MAC_DISABLE_FINE_TUNE 15
 
 #endif
 
