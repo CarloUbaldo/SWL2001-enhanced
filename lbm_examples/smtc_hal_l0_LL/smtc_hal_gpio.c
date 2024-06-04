@@ -46,7 +46,7 @@
 #include "stm32l0xx_ll_bus.h"
 #include "stm32l0xx_ll_system.h"
 
-#include "smtc_hal_dbg_trace.h"
+#include "smtc_hal_dbg_trace_halt.h"
 
 /*
  * -----------------------------------------------------------------------------
