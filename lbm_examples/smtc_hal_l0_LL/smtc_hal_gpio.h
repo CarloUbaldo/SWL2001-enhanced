@@ -103,7 +103,7 @@ typedef enum gpio_irq_mode_e
  * \param [in] value MCU initial pit state
  *
  */
-void hal_gpio_init_out( const hal_gpio_pin_names_t pin, const uint32_t value );
+void hal_gpio_init_out( const hal_gpio_pin_names_t pin, const uint32_t value , bool enabledIsr);
 
 /*!
  * Initializes given pin as input
