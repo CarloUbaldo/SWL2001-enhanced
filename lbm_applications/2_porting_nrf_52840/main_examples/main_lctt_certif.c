@@ -326,7 +326,7 @@ static void modem_event_callback( void )
         }
         case SMTC_MODEM_EVENT_ALARM:
             SMTC_HAL_TRACE_INFO( "Event received: ALARM\n" );
-            if( certif_running == true )
+            if( certif_running == false )
             {
                 ASSERT_SMTC_MODEM_RC( smtc_modem_alarm_clear_timer( ) );
             }
