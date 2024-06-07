@@ -10,6 +10,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - [service] Printing of certification mode enabling status is changed so that the print is more visible when enabled. The enabling status is always reported.
 
+## [v4.3.2] 2024-06-08
+
+This version fix the 4.3.0 version.
+
+- LR-FHSS datarate decay certification test keeps failing
+
 ## [v4.3.1] 2024-03-12
 
 This version fix the 4.3.0 version.
