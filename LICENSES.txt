@@ -9,7 +9,7 @@ Your access and use of all Third-Party Components are at all times
 governed by the applicable third-party licenses.
 
 
-Semtech Corporation
+Semtech Corporationssss
 -------------------
 
 The Clear BSD License
