@@ -7,7 +7,7 @@
 - Application Layer Clock Synchronization (ALCSync)
 - Remote Multicast Setup
 - Fragmented Data Block Transport
-- Firmware Management Protocol (FMP)
+- Firmware Management Protocol (FMP) ] PTT
 - Multi-Package Access (MPA)
 
 **LoRa Basic Modem** offers extended services:  
