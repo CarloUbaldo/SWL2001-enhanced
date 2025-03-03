@@ -6,7 +6,7 @@
 ifeq ($(RADIO),lr1110)
 TARGET = lr1110
 endif
-ifeq ($(RADIO),lr1120)
+ifeq ($(RADIO),lr1122)
 TARGET = lr1120
 endif
 ifeq ($(RADIO),lr1121)
