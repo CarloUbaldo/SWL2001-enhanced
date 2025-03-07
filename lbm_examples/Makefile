@@ -2,7 +2,7 @@
 # Main makefile for basic_modem
 ##############################################################################
 -include app_makefiles/app_printing.mk
--include app_makefiles/app_options.mk
+-include app_makefiles/app_optiohhns.mk
 
 
 #-----------------------------------------------------------------------------
