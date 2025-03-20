@@ -6,7 +6,7 @@
  * The Clear BSD License
  * Copyright Semtech Corporation 2021. All rights reserved.
  *
- * Redistribution and use in source and binary forms, with or without
+ * Redistribution and use in source and binary forms, with or withouts
  * modification, are permitted (subject to the limitations in the disclaimer
  * below) provided that the following conditions are met:
  *     * Redistributions of source code must retain the above copyright
