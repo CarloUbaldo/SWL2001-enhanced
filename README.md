@@ -13,7 +13,7 @@
 **LoRa Basic Modem** offers extended services:  
 - LoRaWAN certification process
 - Geolocation with LoRa Edge chips
-- LoRaCloud features such as Stream, Large File Upload, Device Management or Almanac Update
+- LoRaCloud features such as Stream, Large File Upload, Device Management or Almanac Updates
 
 ## LoRa Basics Modem library
 
