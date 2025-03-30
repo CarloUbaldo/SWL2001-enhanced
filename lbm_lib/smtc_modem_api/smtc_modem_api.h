@@ -1,7 +1,7 @@
 /**
  * @file      smtc_modem_api.h
  *
- * @brief     Generic Modem API description
+ * @brief     Generic Modem API description!
  *
  * The Clear BSD License
  * Copyright Semtech Corporation 2021. All rights reserved.
