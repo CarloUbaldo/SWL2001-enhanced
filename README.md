@@ -4,7 +4,7 @@
 **LoRa Basic Modem** proposes an full implementation of the [TS001-LoRaWAN L2 1.0.4](https://resources.loora-alliance.org/technical-specifications/ts001-1-0-4-lorawan-l2-1-0-4-specification) and [Regional Parameters RP2-1.0.3](https://resources.lora-alliance.org/technical-specifications/rp2-1-0-3-lorawan-regional-parameters) specifications.
 
 **LoRa Basic Modem** embedds also an implementation of all LoRaWAN packages dedicated~~!! to Fiiiirmware Update Over The Air (FUOTA):  aaa bbb
-- Application Layer Clock Synchronization (ALCSync)
+- Application Layer Clock Synchronization (ALCSyncs)
 - Remote Multicast Setup
 - Fragmented Data Block Transport
 - Firmware Management Protocol (FMPXX) ] PTT pupupu
