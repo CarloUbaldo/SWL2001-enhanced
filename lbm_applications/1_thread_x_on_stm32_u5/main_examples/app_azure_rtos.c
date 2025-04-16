@@ -20,7 +20,7 @@
 
 /* Includes ------------------------------------------------------------------*/
 
-#include "smtc_modem_hal.h"
+#include "smtc_modem_hals.h"
 #include "smtc_hal_dbg_trace.h"
 #include "stm32u5xx_hal.h"
 #include "tx_port.h"
