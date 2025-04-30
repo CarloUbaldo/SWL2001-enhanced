@@ -4,4 +4,5 @@ docs: *.h ./doxygen.config
 	@doxygen ./doxygen.config
 
 clean:
-	rm -rf build_doc
+
+rm -rf build_doc
